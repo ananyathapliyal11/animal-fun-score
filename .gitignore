@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pt
+*.onnx
+*.log
+*.tmp
+*.cache
+output_*.jpg
+leaderboard.csv
